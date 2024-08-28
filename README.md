@@ -22,7 +22,6 @@ The pipeline creates two outputs. The first is a single file. However, due to fi
 
 The second approach stores the file in partitions based on date for easier manipulation and processing.
 
-![Screenshot (892)](https://github.com/user-attachments/assets/2925cfca-920b-4790-98c0-622368e2ea9b)
 ![Screenshot (885)](https://github.com/user-attachments/assets/21e8cde2-25a0-40ae-b95b-f9d9dc8ec5ec)
 ![Screenshot (886)](https://github.com/user-attachments/assets/c50a1af8-9b06-465b-88a8-336baa4ba653)
 ![Screenshot (887)](https://github.com/user-attachments/assets/f1543d0b-0a2c-4327-9574-7ee93c267f16)
@@ -30,5 +29,5 @@ The second approach stores the file in partitions based on date for easier manip
 ![Screenshot (889)](https://github.com/user-attachments/assets/823ca556-6c9a-4e77-9853-44d59ce32b8a)
 ![Screenshot (890)](https://github.com/user-attachments/assets/2bf9fe97-1b1e-4fd3-bcf3-8ada0f91e3cf)
 ![Screenshot (891)](https://github.com/user-attachments/assets/3903ce3e-915a-40ba-8828-931fc0ca97f1)
-
+![Screenshot (892)](https://github.com/user-attachments/assets/2925cfca-920b-4790-98c0-622368e2ea9b)
     
