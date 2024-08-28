@@ -18,7 +18,7 @@ This data pipeline takes the data from an API, cleans it and loads it into a Pos
 
 This data pipeline takes the data from an API, cleans it, and loads it into a Google Cloud Storage Bucket. 
 
-The pipeline creates two outputs. The first is a single file. However, due to file size a second approach is presented for easier manipulation
+The pipeline creates two outputs. The first is a single file. However, due to file size, a second approach is presented for easier manipulation
 
 The second approach stores the file in partitions based on date for easier manipulation and processing.
 
@@ -30,4 +30,14 @@ The second approach stores the file in partitions based on date for easier manip
 ![Screenshot (890)](https://github.com/user-attachments/assets/2bf9fe97-1b1e-4fd3-bcf3-8ada0f91e3cf)
 ![Screenshot (891)](https://github.com/user-attachments/assets/3903ce3e-915a-40ba-8828-931fc0ca97f1)
 ![Screenshot (892)](https://github.com/user-attachments/assets/2925cfca-920b-4790-98c0-622368e2ea9b)
+
+## ETL Pipeline from a Google Cloud Storage Bucket to a BigQuery Dataset
+
+This data pipeline takes the data from a Google Cloud Storage Bucket, cleans it, and loads it into a BigQuery Dataset. 
+
+![Screenshot (901)](https://github.com/user-attachments/assets/eba6e948-3532-4ee3-86fb-316f6f9ba6bb)
+![Screenshot (902)](https://github.com/user-attachments/assets/843c2b8c-1f8a-4077-8c26-8ac28246fcf3)
+![Screenshot (903)](https://github.com/user-attachments/assets/d3349fe6-0abc-4a2b-ac41-880a8d8f0131)
+![Screenshot (904)](https://github.com/user-attachments/assets/f412f4ce-39b3-4081-a98b-1f36190e6a47)
+![Screenshot (905)](https://github.com/user-attachments/assets/58633171-94d2-4ceb-8de1-4161cc276417)
     
